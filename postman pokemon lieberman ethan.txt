@@ -1,0 +1,9 @@
+https://pokeapi.co/api/v2/pokemon/26
+
+https://pokeapi.co/api/v2/berry
+
+https://pokeapi.co/api/v2/evolution-chain/3
+
+https://pokeapi.co/api/v2/machine/45
+
+https://pokeapi.co/api/v2/item/45
